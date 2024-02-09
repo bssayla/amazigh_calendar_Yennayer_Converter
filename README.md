@@ -1,15 +1,3 @@
----
-title: Amazigh Calendar Yennayer Converter
-emoji: 👀
-colorFrom: gray
-colorTo: green
-sdk: streamlit
-sdk_version: 1.31.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # Yennayer Converter
 
 This is a simple web app to convert Gregorian dates to Amazigh dates. since I was looking to know the Amazigh date for my birthday, but I couldn't find a simple tool to do that, so I decided to build one. I used the `streamlit` library to build the web app, the model is a simple python script. the model is hosted on the `huggingface` model hub.
