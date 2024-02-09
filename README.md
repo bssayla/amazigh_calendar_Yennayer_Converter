@@ -3,7 +3,7 @@
 This is a simple web app to convert Gregorian dates to Amazigh dates. since I was looking to know the Amazigh date for my birthday, but I couldn't find a simple tool to do that, so I decided to build one. I used the `streamlit` library to build the web app, the model is a simple python script. the model is hosted on the `huggingface` model hub.
 
 Check it here:
-[Yennayer Converter](https://huggingface.co/docs/hub/spaces-config-reference)
+[Yennayer Converter](https://huggingface.co/spaces/Bssayla/amazigh_calendar_Yennayer_Converter)
 
 
 # My Socials
